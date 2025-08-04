@@ -141,9 +141,10 @@
 
 ---
 
+
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/_kalana_w_"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a>
+  <a href="https://buymeacoffee.com/minsadividg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a>
 </p>
 
 ---
