@@ -24,7 +24,7 @@
     <tr border="none">
         <td width="50%" align="left">
 
-- 🔭 I’m currently working on **SLIIT**
+- 🔭 I’m currently studying on **SLIIT**
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Bedfordshire**
 
